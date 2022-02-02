@@ -13,6 +13,7 @@ Coding timers in Unity is simple, developers usually multiply a rate by UnityEng
 In FreeMatrix Utility, a developer could create multiple independent timers that have types. You could even control the scale of each individual timers and decide what type of timer would it be. 
 
 Here is an example (supposed you were to create a countdown timer that goes faster overtime
+
 Instead of: 
 ```C#
 float timeMax = 30;
@@ -73,3 +74,5 @@ gameObject.transform.localRotation = Quaternion.Euler(FreeMatrix.Utility.Tween2D
 
 ## How to start using
 > Simply import the files of this repository to your project
+
+**Note: More functions to be added soon!**

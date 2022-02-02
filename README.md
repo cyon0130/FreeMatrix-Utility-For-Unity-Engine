@@ -1,6 +1,6 @@
 # FreeMatrix Utility For Unity
 
-For developers recently starting out with Unity, it might be hard to convert between the world unit, local unit and pixels due to the fact the local units scale based on the parent object's scale. Simple primitive animations such as pointing to a direction and scaling up or scaling down an object through code might also be hard for some peope. 
+For developers recently starting out with Unity, it might be hard to convert between the world unit, local unit and pixels due to the fact the local units scale based on the parent object's scale. Simple primitive animations such as pointing to a direction and scaling up or scaling down an object through code might also be hard for some people. 
 
 This is where FreeMatrix Utility For Unity comes into play. 
 

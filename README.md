@@ -70,3 +70,6 @@ For Example (Supposed you were to point to a target)
 // The object would immediately point to the target
 gameObject.transform.localRotation = Quaternion.Euler(FreeMatrix.Utility.Tween2D.PointTo(destination, gameObject.transform.localPosition, gameObject.transform.localRotation));
 ```
+
+## How to start using
+> Simply import the files of this repository to your project
